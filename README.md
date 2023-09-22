@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, I'm Scott! 👋
 
-<!--
-**ScottJuvik/ScottJuvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science** student in Trondheim, Norway, currently in my **second year** pursuing a **bachelor's degree in Informatics at NTNU.**
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 **Education:** Studying at NTNU.
+- 💻 **Skills:** Proficient in `Python`, `JavaScript`, `Java`, and `React`.
+- 👀 **Seeking:** I'm actively looking for a **summer internship** opportunity.
+- 📫 **Contact:** You can reach me at [scott.juvik@gmail.com](mailto:scott.juvik@gmail.com).
+
+
+Feel free to connect and let's explore the world of tech together! 🚀
